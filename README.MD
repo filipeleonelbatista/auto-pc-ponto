@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#PCPONTO" src=".github/logo.jpg" width="200px" />
+    <img alt="PCPONTO" title="#PCPONTO" src="img/logo.jpg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -13,10 +13,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
-</p>
 
 ## Tecnologias
 

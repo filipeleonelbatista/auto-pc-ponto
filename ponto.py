@@ -67,19 +67,19 @@ def registrar():
 
                 driver.close()
                 if resp == "Login ou senha incorretos!":
-                    print("Login ou senha incorretos! Verifique o arquivo de senhas e tente novamente tentando novamente.") 
+                    Mbox('Erro', 'Login ou senha incorretos! Verifique o arquivo de senhas e execute novamente o programa.', 0)
                     return -1
 
-                if resp == "Código recém computado!":
-                    print("Código recém computado!")  
+                if resp == "Código recém computado!":                    
+                    Mbox('Erro', 'Código recém computado!', 0)
                     verifyHour()  
 
-                if "Entrada" in resp or "Saída" in resp:
-                    print("Registro concluido com sucesso!")
+                if "Entrada" in resp or "Saída" in resp:        
+                    Mbox('Sucesso', 'Registro concluido com sucesso!', 0)
                     verifyHour()  
                     
-            else:
-                print("Não foi localizado o arquivo de senhas")
+            else:                
+                Mbox('Erro', 'Não foi localizado o arquivo de senhas! Verifique o arquivo de senhas e execute novamente o programa.', 0)
                 return -1
             return 0
         else:

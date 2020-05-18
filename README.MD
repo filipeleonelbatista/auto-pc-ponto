@@ -35,7 +35,7 @@ O projeto é simples mas auxiliou no aprendizado de automação de testes na web
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.MD) para mais detalhes.
 
 ---
 

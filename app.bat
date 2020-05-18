@@ -1,0 +1,1 @@
+CMD /c python ponto.py

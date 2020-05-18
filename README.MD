@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="PCPONTO" title="#PCPONTO" src="img/logo.jpg" width="200px" />
+    <img alt="PCPONTO" title="#PCPONTO" src="img/logo.jpg" width="500px" />
 </h1>
 
 <h4 align="center">
-  🚀 Automatização de ponto (PC Ponto)
+  🕗 Automatização de ponto (PC Ponto)
 </h4>
 
 <p align="center">
